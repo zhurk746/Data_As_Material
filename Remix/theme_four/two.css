@@ -1,0 +1,14 @@
+body{
+	margin:150px;
+	padding:0;
+	font-family: monospace;
+	font-weight: normal;
+	font-size: 44pt;
+	background-color: black;
+	color: white;
+}
+span {
+	font-weight: bold;
+	color: gold;
+	
+}

@@ -1,0 +1,48 @@
+body{
+	margin:auto;
+	padding:0;
+	width: 55%;
+	background: black;
+	color: white;
+}
+
+
+p{
+	margin:0px;
+	font-size: 22pt;
+	text-align: center;
+	font-family: monospace;
+}
+
+h3 {
+	margin:20px;
+	font-size: 24pt;
+	text-align: center;
+	font-family: monospace;
+}
+p :nth-child(1){
+	word-spacing: 100px;
+}
+
+p :nth-child(6){
+	word-spacing: 100px;
+
+	
+}
+
+p :nth-child(9){
+	word-spacing: 200px;
+}
+
+p :nth-child(13){
+	word-spacing: 300px;
+}
+
+p :nth-child(15){
+	word-spacing: 400px;
+}
+
+p :nth-child(22){
+	word-spacing: 500px;
+	color: gold;
+}

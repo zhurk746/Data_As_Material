@@ -1,0 +1,40 @@
+body{
+	margin: auto;
+	padding:0;
+	width: 55%;
+	font-family: monospace;
+	background-color: black;
+	color: white;
+}
+
+p{
+	margin: 50px;
+	font-size: 20pt;
+	text-align: left;
+}
+p :nth-child(1){
+	word-spacing: 70px;
+}
+
+p :nth-child(4){
+	word-spacing: 50px;
+
+	
+}
+
+p :nth-child(7){
+	word-spacing: 30px;
+}
+
+p :nth-child(10){
+	word-spacing: 10px;
+}
+
+p :nth-child(13){
+	word-spacing: -10px;
+	color: gold;
+}
+
+h3 {
+	margin: 50px;
+}

@@ -1,0 +1,26 @@
+body{
+	margin:auto;
+	padding:0;
+	font-family: monospace;
+	width: 50%;
+	text-align: center;
+	}
+
+p{
+	margin: auto;
+	font-size: 32pt;
+	text-align: center;
+	font-weight: lighter;
+}
+
+h3{
+	margin: auto;
+	font-size: 32pt;
+	text-align: center;
+	font-weight: bolder;
+}
+
+mark {
+	color:white;
+	font-weight: bolder;
+}
